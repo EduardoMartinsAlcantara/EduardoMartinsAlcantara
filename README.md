@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:6A00FF,100:0D1117&text=SYSTEM%20INITIALIZING...&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:6A00FF,100:0D1117&text=EDUARDO%20ALCANTARA...&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Booting+Eduardo+Martins+AI+Profile...;%3E+Computer+Engineering+Student;%3E+Full+Stack+Developer;%3E+Game+Developer;%3E+Always+Learning+Something+New..." />
 
